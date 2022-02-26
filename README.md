@@ -1,0 +1,1 @@
+A basic Lua model for reactive programming, inspired by the VueJS [reactivity](https://github.com/vuejs/core/tree/main/packages/reactivity) API.
